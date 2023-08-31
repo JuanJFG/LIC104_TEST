@@ -1,0 +1,42 @@
+head{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 20;
+}
+
+body{
+    background-color: aquamarine;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+h1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    color: chocolate;
+    font-weight: 900;
+
+}
+
+h3{
+    font-size: large;
+    text-align: center;
+    color: blue;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+p.informacion{
+    font-size: 20px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: chocolate;
+}
+
+footer{
+    font-size: 12px;
+    font-style: inherit;
+    font-style: oblique;
+}
+p.serie{
+   font-size: medium;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    
+} 
+
